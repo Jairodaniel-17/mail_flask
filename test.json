@@ -1,0 +1,13 @@
+{
+    "subject": "Asunto del Correo, ejemplo",
+    "sender": "ejemplo@outlook.com",
+    "recipients": [
+        "ejemplo@untels.edu.pe",
+        "ejemplo@gmail.com"
+    ],
+    "cc": [
+        "ejemplo@hotmail.com",
+        "ejemplo@outlook.com"
+    ],
+    "body": "ejemplo, Este es el cuerpo del correo. Puedes incluir el texto que desees aqui."
+}
